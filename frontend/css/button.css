@@ -1,0 +1,44 @@
+#btnComprovanteEntrada {
+    margin-bottom: 70px;
+}
+
+#btnPagamento {
+    margin-top: 70px;
+}
+
+.btnVerde {
+    background-color: #2eb10d;
+    height: 50px;
+}
+
+.btnVerde:hover {
+    background-color: rgb(6, 138, 24);
+    color: white;
+    cursor: pointer;
+}
+
+.btnAzul {
+    background-color: #3331d1d0;
+    height: 50px;
+}
+
+.btnAmarelo {
+    background-color: #818307;
+    height: 50px;
+}
+
+.btnAmarelo:hover {
+    background-color: rgb(199, 170, 7);
+    color: white;
+    cursor: pointer;
+}
+
+.btnExcluir {
+    background: rgba(143, 1, 1, 0.6);
+}
+
+.btnExcluir:hover {
+    background-color: rgb(189, 8, 8);
+    color: white;
+    cursor: pointer;
+}
